@@ -1,1 +1,1 @@
-# WS Lambda Backend Template
+# AWS Lambda Backend Template

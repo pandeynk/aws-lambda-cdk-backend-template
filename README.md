@@ -1,1 +1,1 @@
-# space-finder-backend
+# WS Lambda Backend Template
